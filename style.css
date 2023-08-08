@@ -1,0 +1,14 @@
+@media(max-width:350px){
+
+    
+    img{
+        width :300px;
+        height:300px;
+    }
+    body{
+        background-color: orange;
+    }
+}
+body{
+    text-align: center;
+}
